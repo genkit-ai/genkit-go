@@ -9,7 +9,7 @@
   <em>AI SDK for Go &bull; LLM Framework &bull; AI Agent Toolkit</em>
 </p>
 
-> **Note:** This repository is the future home of Genkit Go. For now, please visit [github.com/firebase/genkit/go](https://github.com/firebase/genkit/tree/main/go) for source code, issues, and releases.
+> **Note:** This repository is the future home of Genkit Go. For now, please visit [github.com/firebase/genkit/go](https://github.com/genkit-ai/genkit/tree/main/go) for source code, issues, and releases.
 
 <p align="center">
   <a href="https://pkg.go.dev/github.com/firebase/genkit/go"><img src="https://pkg.go.dev/badge/github.com/firebase/genkit/go.svg" alt="Go Reference"></a>
